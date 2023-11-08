@@ -31,8 +31,12 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+```
+ Name: G.Chethan kumar
+ Register Number: 212222240022
+```
+![img5](https://github.com/Gchethankumar/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/118348224/e366a53f-3c3e-4411-a0dc-040f2c652c85)
+
 
 ## Result: 
 ### Thus the simulation on construction of delta 3D printer is completed & movement of axis along X, Y, & Z has been studied.
